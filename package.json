@@ -1,0 +1,14 @@
+{
+  "name": "fcc-req-parser",
+  "version": "0.0.0",
+  "description": "https://www.freecodecamp.com/challenges/request-header-parser-microservice",
+  "main": "server.js",
+  "repository": "",
+  "author": "Joel C. <joel@whatsjoeldoing.com>",
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.72.0",
+    "useragent": "^2.1.9",
+    "yamlparser": "0.0.2"
+  }
+}
